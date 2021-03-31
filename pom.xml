@@ -16,7 +16,7 @@
   <groupId>test</groupId>
   <artifactId>demo</artifactId>
   <packaging>war</packaging>
-  <version>21.0-SNAPSHOT</version>
+  <version>2020-SNAPSHOT</version>
 
   <name>demo</name>
   <url>http://maven.apache.org</url>
